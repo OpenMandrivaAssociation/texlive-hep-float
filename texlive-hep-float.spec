@@ -1,6 +1,6 @@
 Name:		texlive-hep-float
 Version:	64904
-Release:	1
+Release:	2
 Summary:	Convenience package for float placement
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-float
